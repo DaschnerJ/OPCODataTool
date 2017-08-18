@@ -1,0 +1,3 @@
+#Fri Aug 11 11:30:42 EDT 2017
+driverNames=AS 400
+driverPaths=com.ibm.as400.access.AS400JDBCDriver
